@@ -16,7 +16,7 @@ function App (){
 
 const App =() => {
   return(
-    <div className="App">
+    <div className="App2">
       <Home/>
 
     </div>
