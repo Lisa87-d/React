@@ -22,6 +22,3 @@ const Counter = () => {
 
 export default Counter;
 
-useEffect (() => {
-    console.log('Count changed: ${count}');
-}, [count]);
