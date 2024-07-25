@@ -41,7 +41,7 @@ function App(){
 
 
         </Routes>
-        <Counter/>
+        
 
       </div>
     </Router>
