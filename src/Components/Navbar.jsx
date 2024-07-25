@@ -1,4 +1,5 @@
 import {Link} from "react-router-dom";
+import './nav.css'
 
 function Navbar(){
     
@@ -19,5 +20,5 @@ function Navbar(){
             </ul>
         </nav>
     )
-}
+    
 export default Navbar;
