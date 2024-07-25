@@ -1,6 +1,8 @@
 
 import React from 'react';
 import Counter from './Counter';
+import './App.css';
+import Home from './Components/Home';
 
 
 
@@ -13,7 +15,15 @@ function App () {
   ); 
 };
   
+const App = () => {
+  return (
+    <div className= "App">
+      <Home/>
 
+    </div>
+    
+  );
+};
 
 
 
