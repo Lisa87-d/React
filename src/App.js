@@ -18,7 +18,7 @@ function App () {
   ); 
 };
   
-const App = () => {
+const Application = () => {
   return (
     <div className= "Application">
       <Home/>
