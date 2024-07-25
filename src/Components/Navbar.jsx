@@ -1,9 +1,5 @@
 import {Link} from "react-router-dom";
-const myStyle = {
-    colour:"white",
-    backgroundColor:"red",
-    padding:"10 px",
-}
+import './nav.css'
 
 function Navbar(){
     
