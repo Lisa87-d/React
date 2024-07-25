@@ -1,5 +1,11 @@
 import {Link} from "react-router-dom";
+
 function Navbar(){
+    const myStyle ={
+        colour: "white"
+        background
+    
+    }
     return(
         <nav>
             <ul>
