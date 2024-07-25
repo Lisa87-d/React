@@ -8,7 +8,7 @@ const myStyle = {
 function Navbar(){
     
     
-    }
+    
     return(
         <nav>
             <ul style={myStyle}>
@@ -24,5 +24,5 @@ function Navbar(){
             </ul>
         </nav>
     )
-    
+    }
 export default Navbar;
