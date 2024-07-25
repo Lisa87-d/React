@@ -1,5 +1,9 @@
 import {Link} from "react-router-dom";
-import './nav.css'
+const myStyle = {
+    colour:"white",
+    backgroundColor:"red",
+    padding:"10 px",
+}
 
 function Navbar(){
     
@@ -7,7 +11,7 @@ function Navbar(){
     }
     return(
         <nav>
-            <ul>
+            <ul style={myStyle}>
                 <li>
                     <Link to ="/about">About</Link>
                 </li>
