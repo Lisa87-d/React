@@ -1,0 +1,10 @@
+.myStyle{
+    color:aqua;
+    background-color:blue;
+    display:flex;
+    justify-content: space-around;
+    align-items: stretch;
+    gap: 2rem;
+    padding: 0 1rem;
+
+}
